@@ -1,4 +1,4 @@
-package com.samllfatcat;
+package com.samllfatcat.pojo;
 
 /**
  * @author zsz

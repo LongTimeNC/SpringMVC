@@ -1,7 +1,5 @@
 package com.samllfatcat.pojo;
 
-import com.samllfatcat.User;
-
 import java.util.List;
 
 /**
